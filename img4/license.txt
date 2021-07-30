@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jaguar I-pace Concept
+* source:	https://sketchfab.com/3d-models/jaguar-i-pace-concept-3ea106994ec9442eb4b72906026fa215
+* author:	CaptainDavid100k (https://sketchfab.com/CaptainDavid100k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jaguar I-pace Concept" (https://sketchfab.com/3d-models/jaguar-i-pace-concept-3ea106994ec9442eb4b72906026fa215) by CaptainDavid100k (https://sketchfab.com/CaptainDavid100k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
