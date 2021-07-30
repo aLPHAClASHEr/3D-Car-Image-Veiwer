@@ -1,6 +1,3 @@
-Products Comparison Table
-=========
-
 A website designed especially to point out the economic and the mechanical differences between Fuel cars and Electric cars through an user interactive method which also includes 3D depiction of specifies cars models.
 ![image](https://user-images.githubusercontent.com/73337212/127607534-8629a04c-a9c9-4993-92a6-424c936987e8.png)
 
@@ -9,9 +6,3 @@ We have created a with information on Fuel cars and Electric cars and have also 
 
 
 A responsive table to compare and filter through multiple products.
-
-[Article on CodyHouse](https://codyhouse.co/gem/products-comparison-table/)
-
-[Demo](https://codyhouse.co/demo/products-comparison-table/index.html)
- 
-[Terms](https://codyhouse.co/terms/)
