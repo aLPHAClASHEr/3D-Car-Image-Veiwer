@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rimac Concept One
+* source:	https://sketchfab.com/3d-models/rimac-concept-one-31d8d36e371643d1a6cbd21a21a3de25
+* author:	aizataizma (https://sketchfab.com/aizataizma)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rimac Concept One" (https://sketchfab.com/3d-models/rimac-concept-one-31d8d36e371643d1a6cbd21a21a3de25) by aizataizma (https://sketchfab.com/aizataizma) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
